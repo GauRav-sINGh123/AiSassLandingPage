@@ -112,7 +112,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-xl mb-8 text-gray-300 max-w-2xl mx-auto">
-           Crafts engaging captions and automates your posting schedule" clearly states the features.
+           Crafts engaging captions and automates your posting schedule clearly states the features.
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4">
