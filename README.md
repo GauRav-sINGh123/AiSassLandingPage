@@ -26,7 +26,7 @@ A sleek, high-performance AI SaaS landing page built with **Next.js**, **GSAP**,
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/ai-saas-landing.git
+   git clone  https://github.com/GauRav-sINGh123/AiSassLandingPage.git
    cd ai-saas-landing
    ```
 
