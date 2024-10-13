@@ -38,7 +38,7 @@ export default function Hero() {
       {Array.from({ length: 8 }).map((_, index) => (
         <div
           key={index}
-          ref={(el) => el && dotRefs.current.push(el)}
+          ref={(el) => { if (el) dotRefs.current.push(el); }} // Updated ref function
           className={`absolute w-${index + 3} h-${index + 3} bg-gradient-to-br from-purple-400 to-violet-700 rounded-full`}
           style={{
             left: `${Math.random() * 90}%`,
