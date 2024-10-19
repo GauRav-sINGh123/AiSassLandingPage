@@ -57,7 +57,7 @@ A sleek, high-performance AI SaaS landing page built with **Next.js**, **GSAP**,
 - **Tailwind CSS** – Utility-first CSS framework for rapid UI development.
 
 ## 🖼️ Demo  
-Check out the live demo: [AI SaaS Landing](https://ai-sass-landing-page-dqo9.vercel.app/)
+Check out the live demo: [AI SaaS Landing](https://ai-sass-landing-page.vercel.app/)
 
 ## 🤖 Credits  
 - Created using **ChatGPT**  
